@@ -23,9 +23,6 @@ Full-stack developer passionate about creating impactful solutions and continuou
 - Achieved 95% accuracy in predictions
 - [GitHub](your-link)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ## 🌱 Currently Learning
 - Advanced Java 
 - Spring Boot
